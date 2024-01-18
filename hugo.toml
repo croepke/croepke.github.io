@@ -10,3 +10,9 @@ Content = "I'm Christian and, you guessed it, I do like thinking. Long and deep.
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/christian-roepke/"
+
+[params.assets]
+  disableHLJS = true
+  favicon = "/assets/favicon.ico"
+  favicon16x16 = "/assets/favicon.ico"
+  favicon32x32 = "/assets/favicon.ico"
