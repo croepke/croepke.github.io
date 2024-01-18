@@ -1,4 +1,12 @@
 baseURL = 'https://croepke.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bias To Think'
 theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Welcome to Bias To Think 👋🏼"
+Content = "I'm Christian and, you guessed it, I do like thinking. Long and deep. I think we all should take more time to reflect before jumping into action. Here I take the time to unpack concepts and ideas around LLMs and Machine Learning."
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/christian-roepke/"
